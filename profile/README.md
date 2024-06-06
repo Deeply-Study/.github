@@ -1,12 +1,55 @@
-## Hi there 👋
-
+# 👩‍💻 **깊은 자바 스터디🧑‍💻**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSadang-Algorithm-Study-Group&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
+👀 Contribution guidelines - how do team members dive in?
+👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
+🍪 Fun facts - what is your team's favorite snack?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# **[ 📋 정보 ]**
+
+- 기간: 2024.06.06 ~ 계속
+- 인원: 3명
+- 장소:
+     - 사당 or 강남 (대면 스터디)
+- 시간: 매주 수요일, 토요일(추후 협의)
+- 앞으로의 행보..
+  1. 자바 웹 프로그래밍 Next Step
+  2. 토비 스프링
+  3. 디자인 패턴
+  4. 모던 자바 인 액션
+  5. 클린 코드
+  6. 이펙티브 자바
+  7. 자바의 정석
+  
+# **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
+|Github|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/gyduddl" width="130px;" style="max-width: 100%;">](https://github.com/heroq)|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/benjaminuj)|
+|---|:---:|:---:|:---:|
+|이름|권동휘|황영웅|조유진|
+|주력언어|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|
+
+# **[ 👩‍💻 ‍스터디 참여 이력 ]**
+
+- ✅: 참여
+- ⚠️: 불참(사유: o)
+- ❌: 불참(사유: x)
+- :octocat:: 스터디 새 멤버
+
+|일시|권동휘|황영웅|조유진|
+|---|:---:|:---:|:---:|
+|[2024.06.06]|:octocat:|:octocat:|:octocat:|
+
+# **[ 📚 ‍자바 웹 프로그래밍 Next Step ]**
+
+- ✅: 해결
+- ❌: 미해결
+
+|No|주차|플랫폼|문제번호|문제명|권동휘|황영웅|조유진|
+|:---:|:---:|:---:|-----|-----|:---:|:---:|:---:|
+|1|1주차|개발 환경 구축 및 웹 서버 실습 요구사항|||✅|✅|✅|
+
