@@ -24,6 +24,7 @@
   5. 클린 코드
   6. 이펙티브 자바
   7. 자바의 정석
+  8. Refactoring
   
 # **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
 |Github|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/gyduddl" width="130px;" style="max-width: 100%;">](https://github.com/heroq)|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/benjaminuj)|
