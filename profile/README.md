@@ -1,4 +1,3 @@
-# 👩‍💻 **깊은 자바 스터디🧑‍💻**
 <!--
 
 **Here are some ideas to get you started:**
