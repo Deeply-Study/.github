@@ -11,12 +11,10 @@
 
 # **[ 📋 정보 ]**
 
-- 기간: 2024.06.06 ~ 계속
-- 인원: 3명
-- 장소:
-     - 사당 or 강남 (대면 스터디)
-- 시간: 매주 수요일, 토요일(추후 협의)
-- 앞으로의 행보..
+- 기간: 2024.06.15 ~ 계속
+- 인원: 4명
+- 시간: 매주 수요일, 토요일
+- 앞으로의 행보
   1. 자바 웹 프로그래밍 Next Step
   2. 토비 스프링
   3. 디자인 패턴
@@ -27,10 +25,10 @@
   8. Refactoring
   
 # **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
-|Github|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/gyduddl" width="130px;" style="max-width: 100%;">](https://github.com/heroq)|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/benjaminuj)|
-|---|:---:|:---:|:---:|
-|이름|권동휘|황영웅|조유진|
-|주력언어|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|
+|Github|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/gyduddl" width="130px;" style="max-width: 100%;">](https://github.com/heroq)|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/benjaminuj)|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/seulg2027)|
+|---|:---:|:---:|:---:|:---:|
+|이름|권동휘|황영웅|조유진|이슬기|
+|주력언어|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>
 
 # **[ 👩‍💻 ‍스터디 참여 이력 ]**
 
@@ -39,16 +37,16 @@
 - ❌: 불참(사유: x)
 - :octocat:: 스터디 새 멤버
 
-|일시|권동휘|황영웅|조유진|
-|---|:---:|:---:|:---:|
-|[2024.06.06]|:octocat:|:octocat:|:octocat:|
+|일시|권동휘|황영웅|조유진|이슬기|
+|---|:---:|:---:|:---:|:---:|
+|[2024.06.15]|:octocat:|:octocat:|:octocat:|:octocat:|
 
 # **[ 📚 ‍자바 웹 프로그래밍 Next Step ]**
 
 - ✅: 해결
 - ❌: 미해결
 
-|No|주차|플랫폼|질문 정리|권동휘|황영웅|조유진|
-|:---:|:---:|:---:|-----|:---:|:---:|:---:|
-|1|1주차|개발 환경 구축 및 웹 서버 실습 요구사항||✅|✅|✅|
+|No|주차|플랫폼|질문 정리|권동휘|황영웅|조유진|이슬기|
+|:---:|:---:|:---:|-----|:---:|:---:|:---:|:---:|
+|1|1주차|개발 환경 구축 및 웹 서버 실습 요구사항||✅|✅|✅|✅
 
